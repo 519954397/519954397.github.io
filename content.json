@@ -1,0 +1,1 @@
+{"pages":[],"posts":[{"title":"Hexo搭建博客的一些命令","text":"命令 初始化： hexo init 启动博客： hexo s 新建文章： hexo n &quot;我的第一篇文章.md&quot; 清理： hexo clean 生成静态文件 hexo g 部署到github hexo d 执行 先在本地服务器查看内容是否正确 执行三步曲： 123hexo cleanhexo ghexo s 检查完后，部署到github hexo d","link":"/2020/03/14/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%80%E4%BA%9B%E5%91%BD%E4%BB%A4/"}],"tags":[],"categories":[]}
